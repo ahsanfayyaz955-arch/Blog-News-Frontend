@@ -1,0 +1,99 @@
+body{
+    background:#0f172a;
+    color:white;
+}
+
+.navbar{
+
+    background:#111827 !important;
+
+}
+
+.navbar-brand{
+
+    color:#4f9cff !important;
+
+}
+
+.nav-link{
+
+    color:white !important;
+
+    transition:.3s;
+
+}
+
+.nav-link:hover{
+
+    color:#4f9cff !important;
+
+}
+
+.btn{
+
+    border-radius:12px;
+
+}
+
+.card{
+
+    border-radius:16px;
+
+}
+
+.nav-link.active{
+    color:#4f9cff !important;
+    font-weight:bold;
+}
+
+.hero{
+
+    padding:90px 0;
+
+}
+
+.hero h1{
+
+    line-height:1.2;
+
+}
+
+.hero img{
+
+    height:420px;
+
+    width:100%;
+
+    object-fit:cover;
+
+}
+
+.hero .btn{
+
+    padding:14px 35px;
+
+}
+
+.badge{
+
+    font-size:15px;
+
+}
+
+.article-image{
+
+    height:500px;
+
+    object-fit:cover;
+
+    width:100%;
+
+}
+
+.article-content{
+
+    font-size:20px;
+
+    line-height:2;
+
+}

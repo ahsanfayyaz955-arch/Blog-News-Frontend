@@ -1,0 +1,91 @@
+/* =========================
+   Global Reset
+========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+    width: 100%;
+    min-height: 100vh;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background: #0f172a;
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
+/* =========================
+   Headings
+========================= */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 0;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+/* =========================
+   Images
+========================= */
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* =========================
+   Links
+========================= */
+
+a {
+    text-decoration: none;
+}
+
+/* =========================
+   Lists
+========================= */
+
+ul,
+ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* =========================
+   Buttons
+========================= */
+
+button {
+    cursor: pointer;
+}
+
+/* =========================
+   Inputs
+========================= */
+
+input,
+textarea,
+select {
+    outline: none;
+}
