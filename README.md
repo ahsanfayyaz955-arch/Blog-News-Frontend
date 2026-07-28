@@ -52,6 +52,13 @@ src
 ```
 
 ---
+![Home]<img width="1920" height="4683" alt="screencapture-localhost-5173-2026-07-28-13_49_32" src="https://github.com/user-attachments/assets/5efbbd51-abdf-4b67-ae2e-9544a5372bab" />
+
+![AboutUs]<img width="1920" height="4123" alt="screencapture-localhost-5173-AboutUs-2026-07-28-13_53_02" src="https://github.com/user-attachments/assets/7d63fd05-b77c-4328-8d4e-01844289124b" />
+
+
+
+
 
 ## 📦 Installation
 
