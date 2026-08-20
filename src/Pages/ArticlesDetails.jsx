@@ -503,12 +503,12 @@ function ArticleDetails() {
                 <div className="col-lg-4">
 
                     <div
-
-                        className="sticky-top"
-
-                        style={{ top: "90px" }}
-
-                    >
+                         style={{
+                          position: "sticky",
+                           top: "90px",
+                            zIndex: 10
+                              }}
+                           >
 
                         <div className="card border-0 shadow-sm rounded-4">
 
